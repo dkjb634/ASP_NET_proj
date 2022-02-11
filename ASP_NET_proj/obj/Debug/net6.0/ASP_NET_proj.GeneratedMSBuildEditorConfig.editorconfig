@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASP_NET_proj
 build_property.RootNamespace = ASP_NET_proj
-build_property.ProjectDir = C:\Git\ASP_NET_proj\ASP_NET_proj\ASP_NET_proj\
+build_property.ProjectDir = C:\Git\ASP_NET_proj\ASP_NET_proj\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Git\ASP_NET_proj\ASP_NET_proj\ASP_NET_proj
+build_property.MSBuildProjectDirectory = C:\Git\ASP_NET_proj\ASP_NET_proj
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/Error.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/Index.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/Privacy.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/_ViewImports.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/_ViewStart.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/ASP_NET_proj/ASP_NET_proj/ASP_NET_proj/Pages/Shared/_Layout.cshtml]
+[C:/Git/ASP_NET_proj/ASP_NET_proj/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x3rgti3oo4
